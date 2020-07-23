@@ -1,6 +1,6 @@
-#Datum Bootcamp 2019
+# Datum Bootcamp 2019
 
-##Few words
+## Few words
 
 Datum conducted their bootcamp on June 29th 2019. 
 
